@@ -40,6 +40,7 @@
 }
 
 diagramframe {
+  text-align: left;
   justify-content: start;
 }
 
@@ -127,7 +128,6 @@ metadata heading {
 pentagon {
   padding: 4;
   justify-content: start;
-  text-align: left;
 }
 
 /* UML */
@@ -318,6 +318,7 @@ from {
   font-size: x-small;
 }
 
+interaction > pentagon,
 activity > :is(name, stereotypes) {
   text-align: left;
 }

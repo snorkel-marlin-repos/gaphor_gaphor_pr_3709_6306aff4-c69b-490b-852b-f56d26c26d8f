@@ -8,16 +8,15 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-12-30 13:59-0500\n"
-"PO-Revision-Date: 2025-01-07 01:02+0000\n"
+"PO-Revision-Date: 2024-12-02 01:00+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/gaphor/gaphor/"
-"hu/>\n"
 "Language: hu\n"
+"Language-Team: Hungarian "
+"<https://hosted.weblate.org/projects/gaphor/gaphor/hu/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: gaphor/C4Model/modelinglanguage.py:28 gaphor/C4Model/toolbox.py:57
@@ -85,32 +84,38 @@ msgid "Dependency"
 msgstr "Függőség"
 
 #: gaphor/C4Model/toolbox.py:141
+#, fuzzy
 msgid "C4 Diagram"
-msgstr "C4-ábra"
+msgstr "Új C4-ábra"
 
 #: gaphor/C4Model/toolbox.py:142 gaphor/UML/toolbox.py:32
+#, fuzzy
 msgid "Class Diagram"
-msgstr "Osztályábra"
+msgstr "Új osztályábra"
 
 #: gaphor/C4Model/toolbox.py:143 gaphor/SysML/toolbox.py:138
 #: gaphor/UML/toolbox.py:36
+#, fuzzy
 msgid "Activity Diagram"
-msgstr "Tevékenységábra"
+msgstr "Új tevékenységábra"
 
 #: gaphor/C4Model/toolbox.py:144 gaphor/SysML/toolbox.py:148
 #: gaphor/UML/toolbox.py:37
+#, fuzzy
 msgid "Sequence Diagram"
-msgstr "Sorozatábra"
+msgstr "Új sorozatábra"
 
 #: gaphor/C4Model/toolbox.py:145 gaphor/SysML/toolbox.py:158
 #: gaphor/UML/toolbox.py:41
+#, fuzzy
 msgid "State Machine Diagram"
-msgstr "Állapotautomataábra"
+msgstr "Új állapotautomataábra"
 
 #: gaphor/C4Model/toolbox.py:146 gaphor/RAAML/toolbox.py:32
 #: gaphor/SysML/toolbox.py:178 gaphor/UML/toolbox.py:44
+#, fuzzy
 msgid "Generic Diagram"
-msgstr "Általános-ábra"
+msgstr "Új általános-ábra"
 
 #: gaphor/C4Model/toolbox.py:150 gaphor/RAAML/toolbox.py:36
 #: gaphor/SysML/blocks/blockstoolbox.py:51 gaphor/SysML/toolbox.py:182
@@ -145,8 +150,9 @@ msgid "Class"
 msgstr "Osztály"
 
 #: gaphor/C4Model/toolbox.py:160 gaphor/UML/toolbox.py:54
+#, fuzzy
 msgid "Data Type"
-msgstr "Adattípus"
+msgstr "adattípus"
 
 #: gaphor/C4Model/toolbox.py:162 gaphor/SysML/blocks/blockstoolbox.py:118
 #: gaphor/SysML/toolbox.py:186 gaphor/UML/classes/classestoolbox.py:154
@@ -155,20 +161,23 @@ msgid "Enumeration"
 msgstr "Felsorolás"
 
 #: gaphor/C4Model/toolbox.py:165
+#, fuzzy
 msgid "Primitive Type"
-msgstr "Egyszerűtípus"
+msgstr "Új egyszerűtípus"
 
 #: gaphor/RAAML/modelinglanguage.py:25 gaphor/ui/greeter.py:48
 msgid "RAAML"
 msgstr "RAAML"
 
 #: gaphor/RAAML/toolbox.py:30
+#, fuzzy
 msgid "FTA Diagram"
-msgstr "FTA-ábra"
+msgstr "Új FTA-ábra"
 
 #: gaphor/RAAML/toolbox.py:31
+#, fuzzy
 msgid "STPA Diagram"
-msgstr "STPA-ábra"
+msgstr "Új STPA-ábra"
 
 #: gaphor/RAAML/fta/ftatoolbox.py:195 gaphor/RAAML/fta/ftatoolbox.py:201
 #: gaphor/RAAML/fta/topevent.py:27 gaphor/RAAML/toolbox.py:37
@@ -438,8 +447,9 @@ msgid "Proxy Port"
 msgstr "Közvetít kikötő"
 
 #: gaphor/SysML/toolbox.py:99
+#, fuzzy
 msgid "Block Definition Diagram"
-msgstr "Blokkelem-meghatározási ábra"
+msgstr "Új blokkelem-meghatározási ábra"
 
 #: gaphor/SysML/toolbox.py:102 gaphor/SysML/toolbox.py:122
 #: gaphor/SysML/toolbox.py:134 gaphor/SysML/toolbox.py:176
@@ -447,20 +457,23 @@ msgid "New Package"
 msgstr "Új csomag"
 
 #: gaphor/SysML/toolbox.py:106
+#, fuzzy
 msgid "Internal Block Diagram"
-msgstr "Belső blokkelemábra"
+msgstr "Új belső blokkelemábra"
 
 #: gaphor/SysML/toolbox.py:113 gaphor/SysML/toolbox.py:114
 msgid "New Block"
 msgstr "Új blokkelem"
 
 #: gaphor/SysML/toolbox.py:119 gaphor/UML/toolbox.py:33
+#, fuzzy
 msgid "Package Diagram"
-msgstr "Csomagábra"
+msgstr "Új csomagábra"
 
 #: gaphor/SysML/toolbox.py:126
+#, fuzzy
 msgid "Requirement Diagram"
-msgstr "Követelményábra"
+msgstr "Új követelményábra"
 
 #: gaphor/SysML/toolbox.py:142 gaphor/SysML/toolbox.py:143
 msgid "New Activity"
@@ -475,8 +488,9 @@ msgid "New State Machine"
 msgstr "Új állapotautomata"
 
 #: gaphor/SysML/toolbox.py:168 gaphor/UML/toolbox.py:42
+#, fuzzy
 msgid "Use Case Diagram"
-msgstr "Használati eset ábra"
+msgstr "Új használati eset ábra"
 
 #: gaphor/SysML/toolbox.py:184 gaphor/UML/toolbox.py:50
 #: gaphor/UML/usecases/usecasetoolbox.py:28 gaphor/templates/uml-example.gaphor
@@ -488,8 +502,9 @@ msgid "Block"
 msgstr "Blokkelem"
 
 #: gaphor/SysML/toolbox.py:189
+#, fuzzy
 msgid "Interface Block"
-msgstr "Felületblokkelem"
+msgstr "felületblokkelem"
 
 #: gaphor/SysML/requirements/requirementstoolbox.py:17
 #: gaphor/SysML/toolbox.py:193
@@ -497,12 +512,14 @@ msgid "Requirement"
 msgstr "Követelmény"
 
 #: gaphor/SysML/toolbox.py:203 gaphor/UML/toolbox.py:77
+#, fuzzy
 msgid "Use Case"
 msgstr "Használati eset"
 
 #: gaphor/SysML/toolbox.py:204
+#, fuzzy
 msgid "Value Type"
-msgstr "Értéktipus"
+msgstr "értéktipus"
 
 #: gaphor/SysML/allocations/allocationstoolbox.py:6
 msgid "Allocations"
@@ -671,20 +688,24 @@ msgstr ""
 "szerepelnek."
 
 #: gaphor/UML/toolbox.py:34
+#, fuzzy
 msgid "Component Diagram"
 msgstr "Összetevőábra"
 
 #: gaphor/UML/toolbox.py:35
+#, fuzzy
 msgid "Deployment Diagram"
-msgstr "Telepítési ábra"
+msgstr "Új telepítési ábra"
 
 #: gaphor/UML/toolbox.py:39
+#, fuzzy
 msgid "Communication Diagram"
-msgstr "Kommunikációs ábra"
+msgstr "Új kommunikációs ábra"
 
 #: gaphor/UML/toolbox.py:43
+#, fuzzy
 msgid "Profile Diagram"
-msgstr "Profilábra"
+msgstr "Új profilábra"
 
 #: gaphor/UML/deployments/deploymentstoolbox.py:16 gaphor/UML/toolbox.py:51
 msgid "Artifact"
@@ -695,8 +716,9 @@ msgid "Device"
 msgstr "Eszköz"
 
 #: gaphor/UML/toolbox.py:61
+#, fuzzy
 msgid "Instance Specification"
-msgstr "Példánymeghatározás"
+msgstr "Új példánymeghatározás"
 
 #: gaphor/UML/classes/classestoolbox.py:39 gaphor/UML/toolbox.py:68
 msgid "Interface"
@@ -1653,32 +1675,38 @@ msgid "No focused item."
 msgstr "Nincs fókuszált tétel."
 
 #: gaphor/diagram/propertypages.ui:319 gaphor/diagram/styleeditor.ui:5
+#, fuzzy
 msgid "Style Editor"
-msgstr "Stílusszerkesztő"
+msgstr "Stíluslap"
 
 #: gaphor/diagram/propertypages.ui:328
+#, fuzzy
 msgid "Open Style Editor"
-msgstr "Stílusszerkesztő megnyitása"
+msgstr "Egyesítési szerkesztő megnyitása"
 
 #: gaphor/diagram/styleeditor.ui:27
+#, fuzzy
 msgid "Border Radius"
-msgstr "Határsugár"
+msgstr "elrendelt"
 
 #: gaphor/diagram/styleeditor.ui:51
+#, fuzzy
 msgid "Color"
-msgstr "Szín"
+msgstr "Színek"
 
 #: gaphor/diagram/styleeditor.ui:68
 msgid "Background Color"
-msgstr "Háttérszín"
+msgstr ""
 
 #: gaphor/diagram/styleeditor.ui:85
+#, fuzzy
 msgid "Text Color"
-msgstr "Szövegszín"
+msgstr "Színek"
 
 #: gaphor/diagram/styleeditor.ui:99
+#, fuzzy
 msgid "Add to Style Sheet"
-msgstr "Hozzáadás a stíluslaphoz"
+msgstr "Stíluslap"
 
 #: gaphor/diagram/tools/dnd.py:50
 msgid "Element can’t be represented on a diagram."
@@ -2577,8 +2605,9 @@ msgid "Zoom In"
 msgstr "Nagyítás"
 
 #: gaphor/ui/diagrampage.ui:117
+#, fuzzy
 msgid "Align selected elements"
-msgstr "Kijelölt elemek igazítása"
+msgstr "Összeköthető elem"
 
 #: gaphor/ui/diagrampage.ui:132
 msgid "Align Left"
@@ -2613,8 +2642,9 @@ msgid "Max Size"
 msgstr "Maximális méret"
 
 #: gaphor/ui/diagrams.py:322
+#, fuzzy
 msgid "Selected element is not in present in this diagram."
-msgstr "A kijelölt elem nem szerepel ezen az ábrán."
+msgstr "Az elem nem ábrázolható egy ábrán."
 
 #: gaphor/ui/diagrams.ui:12
 msgid "Open a Diagram"
@@ -2695,8 +2725,9 @@ msgid "The (natural) language used in this model."
 msgstr "A modellben használt (természetes) nyelv."
 
 #: gaphor/ui/elementeditor.ui:158
+#, fuzzy
 msgid "CSS Editor"
-msgstr "CSS-szerkesztő"
+msgstr "Stíluslap"
 
 #: gaphor/ui/elementeditor.ui:186
 msgid "CSS nodes of focused item"
@@ -2835,7 +2866,7 @@ msgstr "Nem sikerült menteni a(z) „{filename}”-modellfájlt."
 
 #: gaphor/ui/filemanager.py:306
 msgid "Model has been saved."
-msgstr "A modell mentése megtörtént."
+msgstr ""
 
 #: gaphor/ui/filemanager.py:332 gaphor/ui/filemanager.py:374
 msgid "Save Gaphor Model As"
@@ -3125,8 +3156,9 @@ msgid "Change from System Language to English"
 msgstr "Váltás a rendszer nyelvéről angolra"
 
 #: gaphor/ui/help/preferences.ui:42
+#, fuzzy
 msgid "Editing"
-msgstr "Szerkesztés"
+msgstr "Irány"
 
 #: gaphor/ui/help/preferences.ui:45
 msgid "Reset Tool Automatically"
@@ -3134,7 +3166,7 @@ msgstr "Az eszköz önműködő visszaállítása"
 
 #: gaphor/ui/help/preferences.ui:46
 msgid "After an element is created, switch back to the pointer tool."
-msgstr "Egy elem létrehozása után váltson vissza a mutatóeszközre."
+msgstr ""
 
 #: gaphor/ui/help/preferences.ui:51
 msgid "Remove Unused Elements"
@@ -3344,3 +3376,4 @@ msgstr "általános: Általános"
 
 #~ msgid "New package"
 #~ msgstr "Új csomag"
+
